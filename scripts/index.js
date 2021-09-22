@@ -21,6 +21,6 @@ const generarNumero = (numMinimo, numMaximo) => {
     
 };
 
-btnGenerar.addEventListener('click', () => {
+btnGenerar.addEventListener('click', () =>{
     generarNumero(numMinimo, numMaximo);
 })
